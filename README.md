@@ -1,3 +1,4 @@
+#wcc-cpp
 # C++ Course Projects
 
 This repository contains a collection of C++ console applications built in Visual Studio for CIS 251. The strongest portfolio-ready projects in this set are listed below.
